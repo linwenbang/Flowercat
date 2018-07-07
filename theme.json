@@ -46,5 +46,29 @@
         "user-avatar-url": "https://avatars2.githubusercontent.com/u/7804535",
         "repo-fullname": "bbatsov/zenburn-emacs",
         "repo-introduce": "Zenburn for Emacs is a direct port of the popular Zenburn theme for vim, developed by Jani Nurminen. It's my personal belief (and that of its many users I presume) that it's one of the best low contrast color themes out there and that it is exceptionally easy on the eyes."
+    },
+    {
+        "name": "邦Ben",
+        "color-scheme": {
+            "bar-color": "#ffffff",
+            "tabbar-color": "#ffffff",
+            "back-color": "#edeef0",
+            "title-color": "#000000",
+            "switch-color": "#FFC600",
+            "text-color": "#000000",
+            "text-show-color": "#cccccc",
+            "text-light-color": "#edeef0",
+            "text-highlight-color": "#edeef0",
+            "text-highhighlight-color": "#edeef0",
+            "text-link-color": "#edeef0",
+            "button-normal-color": "#000000",
+            "button-selected-color": "#cccccc",
+            "shadow-color": "#cccccc"
+        },
+        "status-bar-style": "default",
+        "user-login": "linwenbang",
+        "user-avatar-url": "https://raw.githubusercontent.com/linwenbang/Resource/master/logo/avatar2.jpeg",
+        "repo-fullname": "linwenbang/Resource",
+        "repo-introduce": "测试主题颜色"
     }
 ]

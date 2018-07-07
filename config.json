@@ -3,6 +3,10 @@
         "Vim": {
             "image": "https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vim/vim.png",
             "url": "https://raw.githubusercontent.com/Sepicat/Flowercat/master/theme-vim.json"
+        },
+        "BangBen": {
+            "image": "https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vim/vim.png",
+            "url": "https://raw.githubusercontent.com/Sepicat/Flowercat/master/theme-vim.json"
         }
     }
 }
